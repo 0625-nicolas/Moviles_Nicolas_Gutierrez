@@ -257,7 +257,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       backgroundColor: Colors.black,
       appBar: AppBar(
-        title: const Text('NEURAL LINK v2.0', style: TextStyle(color: Colors.cyan, letterSpacing: 2)),
+        title: const Text('NEURAL LINK v2.1', style: TextStyle(color: Colors.cyan, letterSpacing: 2)),
         backgroundColor: Colors.black,
         elevation: 0,
         centerTitle: true,

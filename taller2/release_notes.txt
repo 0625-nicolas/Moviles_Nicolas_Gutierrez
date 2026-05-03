@@ -1,0 +1,20 @@
+Release Notes - Taller 2
+Fecha: 2026-05-03
+Responsable: Nicolas Gutierrez
+
+Versión: 1.0.0+1
+Cambios:
+- Configuración inicial de permisos en AndroidManifest.xml (INTERNET).
+- Preparación de build de release para distribución inicial.
+- Registro en Firebase App Distribution.
+Credenciales de prueba: No aplica (Acceso público tras instalación).
+
+Enlace de instalación: [PLACEHOLDER: COPIAR ENLACE DE FIREBASE AQUÍ]
+
+--------------------------------------------------
+
+Versión: 1.0.1+2
+Cambios:
+- Actualización incremental de versión para probar el flujo de Firebase.
+- Cambio visual en el título de la AppBar: "NEURAL LINK v2.0" -> "NEURAL LINK v2.1".
+- Validación de recepción de notificaciones en el tester.
