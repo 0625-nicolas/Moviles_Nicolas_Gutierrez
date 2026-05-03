@@ -9,8 +9,6 @@ Cambios:
 - Registro en Firebase App Distribution.
 Credenciales de prueba: No aplica (Acceso público tras instalación).
 
-Enlace de instalación: [PLACEHOLDER: COPIAR ENLACE DE FIREBASE AQUÍ]
-
 --------------------------------------------------
 
 Versión: 1.0.1+2
