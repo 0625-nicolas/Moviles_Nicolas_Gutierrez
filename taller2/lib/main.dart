@@ -12,7 +12,7 @@ class CyberTaskerApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'NEURAL LINK v2.0',
+      title: 'NEURAL LINK v2.1',
       theme: ThemeData(
         brightness: Brightness.dark,
         scaffoldBackgroundColor: const Color(0xFF050505),
